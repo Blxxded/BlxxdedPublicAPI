@@ -1,9 +1,8 @@
 {
-	"hey": "lol",
-	"hey2": "lol2",
-	"list": [
-		"dirt",
+	"blocks": [
 		"stone",
-		"grass"
+		"granite",
+		"polished_granite",
+		"diorite"
 	]
 }
